@@ -1,10 +1,10 @@
-#How to start
+#Using the Angular seed project
 
 ##Basic setup
 
 ###Create your repo in Github.
 
-For my example, I'm using reergymerej/ang-tut-1.git.
+For my example, I'm using https://github.com/reergymerej/ang-tut-1.git.
 
 ###Clone the Angular seed project from Github.
   
